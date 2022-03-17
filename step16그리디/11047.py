@@ -14,4 +14,3 @@ for i in range(n-1, -1, -1):
 	if k == 0:
 		break;
 print(coinNum)
-	
